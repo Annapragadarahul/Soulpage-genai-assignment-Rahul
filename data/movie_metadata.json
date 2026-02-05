@@ -1,0 +1,26 @@
+{
+  "Inception": {
+    "summary": "A skilled thief enters people's dreams to steal secrets and is given a chance to erase his criminal past by planting an idea into a target's subconscious.",
+    "genres": ["Sci-Fi", "Thriller", "Action"],
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "release_date": "2010-07-16"
+  },
+  "Titanic": {
+    "summary": "A love story unfolds between two people from different social classes aboard the ill-fated RMS Titanic.",
+    "genres": ["Romance", "Drama"],
+    "cast": ["Leonardo DiCaprio", "Kate Winslet"],
+    "release_date": "1997-12-19"
+  },
+  "RRR": {
+    "summary": "A fictional story about two Indian revolutionaries and their journey before they fought for their country.",
+    "genres": ["Action", "Drama"],
+    "cast": ["N. T. Rama Rao Jr.", "Ram Charan", "Alia Bhatt"],
+    "release_date": "2022-03-25"
+  },
+  "Joker": {
+    "summary": "A mentally troubled comedian descends into madness and becomes Gotham City's infamous criminal.",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "cast": ["Joaquin Phoenix", "Robert De Niro"],
+    "release_date": "2019-10-04"
+  }
+}
